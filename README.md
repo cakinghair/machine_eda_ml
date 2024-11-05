@@ -27,13 +27,13 @@
 * `pip install -r requirements.txt`
 ## 檔案 Files
 * `Data_of_rotary_machine_defects` 存放資料集。本研究使用Kaggle開源資料集：https://www.kaggle.com/datasets/kazakovyurii/data-of-rotary-machine-defects/data
-* `main.ipynb` 主程式。
+* `main.py` 主程式。
 ###
 * `Data_of_rotary_machine_defects` stores dataset. This side project refers to Kaggle open-source dataset: https://www.kaggle.com/datasets/kazakovyurii/data-of-rotary-machine-defects/data
-* `main.ipynb` main program.
+* `main.py` main program.
 ## 用法 Directions
-可視需求建立虛擬環境，參考上面指令，利用 `requirements.txt` 文件安裝所需模組後，即可開啟`main.ipynb` 檢視程式碼與執行。
+可視需求建立虛擬環境，參考上面指令，利用 `requirements.txt` 文件安裝所需模組後，即可開啟`main.py` 檢視程式碼與執行。
 ###
-You may set up a virtual environment if needed. Refer to the command above and install necessary modules via `requirements.txt`, and then open `main.ipynb`.
+You may set up a virtual environment if needed. Refer to the command above and install necessary modules via `requirements.txt`, and then open `main.py`.
 ## 授權 Autorization
 MIT License
