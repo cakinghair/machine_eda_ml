@@ -19,7 +19,8 @@
 
    ![image](https://github.com/user-attachments/assets/30d644f0-1430-4ecc-8892-3fa1014dc9be)
 4. 經由GridSearchCV輔助調參後，模型表現如下。 Performance after hyperparameter tuning via GridSearchCV is as below.
-  ![image](https://github.com/user-attachments/assets/b968e083-adc9-479b-b707-d18de467074c)
+
+   ![image](https://github.com/user-attachments/assets/b968e083-adc9-479b-b707-d18de467074c)
 
 ## 環境 Environment
 * Python 3.12.4
